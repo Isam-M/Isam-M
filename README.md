@@ -15,17 +15,17 @@ Her er noen av prosjektene jeg har jobbet med:
 ### Fake store - Android
 **Beskrivelse**: Vi utviklet en mobilapp med Kotlin som bruker Fake Store API for produktdata. Appen fungerer som en nettbutikk, 
 der brukerne kan bla gjennom produkter, legge dem i handlekurven og fullføre kjøp. Dette prosjektet var en del av en Android-eksamen, hvor jeg fikk karakteren A.           
-**Lenke**: [GitHub-repo](https://github.com/Isam-M/Fakestore-Android)  
+**Lenke**: [FakeStore-repo](https://github.com/Isam-M/Fakestore-Android)  
 
 ### Volatility - GUI
 **Beskrivelse**: Vi jobbet med Volatility3 og utviklet et GUI for verktøyet ved bruk av Python. Prosjektet var fokusert på å gjøre det enklere å bruke Volatility3 gjennom en brukervennlig grafisk grensesnitt. 
 Dette prosjektet var en del av en eksamen, hvor jeg fikk karakteren A.           
-**Lenke**: [GitHub-repo](https://github.com/Isam-M/Volatility-GUI) 
+**Lenke**: [VolGui-repo](https://github.com/Isam-M/Volatility-GUI) 
 
 ### F1 Event - Fullstack
 **Beskrivelse**: I dette prosjektet var fokuset å utvikle en fullstack-løsning for et F1-arrangement. Prosjektet tok i bruk React, JavaScript, .NET/C# Web API, en database, HTML5, CSS3, og Bootstrap for responsivt design.
 Dette prosjektet var en del av en eksamen, hvor jeg fikk karakteren A.  
-**Lenke**: [GitHub-repo](https://github.com/Isam-M/F1-Event)  
+**Lenke**: [F1-repo](https://github.com/Isam-M/F1-Event)  
 
 
 ## 📫 Kontakt meg
