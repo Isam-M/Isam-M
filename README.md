@@ -4,7 +4,7 @@
 
 Jeg er en Bachelor-student i Frontend- og mobilutvikling, nå på mitt siste år. Gjennom studiet og personlige prosjekter har jeg utviklet en sterk lidenskap for å skape intuitive og brukervennlige applikasjoner. Jeg har erfaring med et bredt spekter av teknologier og plattformer, og jeg er alltid ivrig etter å lære og utforske nye verktøy og språk.
 
-- 🌱 For tiden lærer jeg meg Swift for å utvide min kompetanse innen mobilutvikling.
+- 🌱 For tiden lærer jeg meg Swift for å utvide min kompetanse innen IOS utvikling.
 - 🛠️ Jeg har jobbet med teknologier som **HTML, CSS, JavaScript, React, Kotlin, Python, Java, C#** og **Unity**.
 - 🤝 Jeg er alltid interessert i å samarbeide på spennende prosjekter, så det er bare å ta kontakt!
 
@@ -12,20 +12,20 @@ Jeg er en Bachelor-student i Frontend- og mobilutvikling, nå på mitt siste år
 
 Her er noen av prosjektene jeg har jobbet med:
 
-### [Prosjektnavn 1]
-**Beskrivelse**: En kort beskrivelse av prosjektet. Hva det handler om, hvilke teknologier som ble brukt, og hvilken rolle du hadde i prosjektet.  
-**Lenke**: [GitHub-repo](Lenke til prosjektet)  
-**Demo**: [Live demo](Lenke til live demo, om tilgjengelig)
+### Fake store - Android
+**Beskrivelse**: Vi utviklet en mobilapp med Kotlin som bruker Fake Store API for produktdata. Appen fungerer som en nettbutikk, 
+der brukerne kan bla gjennom produkter, legge dem i handlekurven og fullføre kjøp. Dette prosjektet var en del av en Android-eksamen, hvor jeg fikk karakteren A.           
+**Lenke**: [GitHub-repo](https://github.com/Isam-M/Fakestore-Android)  
 
-### [Prosjektnavn 2]
-**Beskrivelse**: En kort beskrivelse av prosjektet.  
-**Lenke**: [GitHub-repo](Lenke til prosjektet)  
-**Demo**: [Live demo](Lenke til live demo, om tilgjengelig)
+### Volatility - GUI
+**Beskrivelse**: Vi jobbet med Volatility3 og utviklet et GUI for verktøyet ved bruk av Python. Prosjektet var fokusert på å gjøre det enklere å bruke Volatility3 gjennom en brukervennlig grafisk grensesnitt. 
+Dette prosjektet var en del av en eksamen, hvor jeg fikk karakteren A.           
+**Lenke**: [GitHub-repo](https://github.com/Isam-M/Volatility-GUI) 
 
-### [Prosjektnavn 3]
-**Beskrivelse**: En kort beskrivelse av prosjektet.  
-**Lenke**: [GitHub-repo](Lenke til prosjektet)  
-**Demo**: [Live demo](Lenke til live demo, om tilgjengelig)
+### F1 Event - Fullstack
+**Beskrivelse**: I dette prosjektet var fokuset å utvikle en fullstack-løsning for et F1-arrangement. Prosjektet tok i bruk React, JavaScript, .NET/C# Web API, en database, HTML5, CSS3, og Bootstrap for responsivt design.
+Dette prosjektet var en del av en eksamen, hvor jeg fikk karakteren A.  
+**Lenke**: [GitHub-repo](https://github.com/Isam-M/F1-Event)  
 
 
 ## 📫 Kontakt meg
