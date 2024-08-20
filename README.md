@@ -1,4 +1,4 @@
-# 👋 Hei, jeg heter Isam Melioui
+# 👋 Hei, jeg er Isam Melioui
 
 ## 🧑‍💻 Om meg
 
@@ -30,7 +30,7 @@ Dette prosjektet var en del av en eksamen, hvor jeg fikk karakteren A.
 
 ## 📫 Kontakt meg
 
-Du kan nå meg via [LinkedIn](https://www.linkedin.com/in/isam-melioui-676a24255/) eller [Epost](mailto:isammelioui@gmail.com).
+Du kan alltid nå meg via [LinkedIn](https://www.linkedin.com/in/isam-melioui-676a24255/) eller [Epost](mailto:isammelioui@gmail.com).
 
 ---
 
