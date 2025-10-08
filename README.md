@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Om meg
 
-Jeg er en Bachelor-student i Frontend- og mobilutvikling, nå på mitt siste år. Gjennom studiet og personlige prosjekter har jeg utviklet en sterk lidenskap for å skape intuitive og brukervennlige applikasjoner. Jeg har erfaring med et bredt spekter av teknologier og plattformer, og jeg er alltid ivrig etter å lære og utforske nye verktøy og språk.
+Jeg er ferdig utdannet i Bachelor: Frontend- og mobilutvikling, nå på mitt siste år. Gjennom studiet og personlige prosjekter har jeg utviklet en sterk lidenskap for å skape intuitive og brukervennlige applikasjoner. Jeg har erfaring med et bredt spekter av teknologier og plattformer, og jeg er alltid ivrig etter å lære og utforske nye verktøy og språk.
 
 - 🌱 For tiden lærer jeg meg Swift for å utvide min kompetanse innen IOS utvikling.
 - 🛠️ Jeg har jobbet med teknologier som **HTML, CSS, JavaScript, React, Kotlin, Python, Java, C#** og **Unity**.
